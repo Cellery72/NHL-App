@@ -1,0 +1,13 @@
+{
+  "teams": 
+  [
+    {
+      "abbrv": "PIT",
+      "name": "Pittsburgh Penguins"
+    },
+    {
+      "abbrv": "TOR",
+      "name": "Toronto Maple Leafs"
+    }
+  ]
+}
